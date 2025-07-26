@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Dark background -->
+  <rect width="500" height="500" fill="#2D2A4A" rx="20" ry="20"/>
+  
+  <!-- Gorilla face -->
+  <ellipse cx="250" cy="260" rx="150" ry="160" fill="#333" />
+  <ellipse cx="250" cy="270" rx="120" ry="130" fill="#222" />
+  
+  <!-- Gorilla features -->
+  <path d="M200 220 Q250 280 300 220" stroke="#111" stroke-width="5" fill="none" />
+  <ellipse cx="210" cy="200" rx="20" ry="15" fill="#111" />
+  <ellipse cx="290" cy="200" rx="20" ry="15" fill="#111" />
+  
+  <!-- Gorilla nose -->
+  <path d="M230 230 Q250 250 270 230 Q250 260 230 230" fill="#111" />
+  
+  <!-- Cap -->
+  <path d="M150 160 Q250 100 350 160 L330 180 Q250 130 170 180 Z" fill="#111" />
+  <path d="M150 160 Q250 120 350 160 L350 140 Q250 100 150 140 Z" fill="#222" />
+  
+  <!-- Headphones -->
+  <path d="M140 200 Q120 180 120 160 Q120 120 150 120 L150 140 Q130 140 130 160 Q130 180 140 180 Z" fill="#FF7F7F" />
+  <path d="M360 200 Q380 180 380 160 Q380 120 350 120 L350 140 Q370 140 370 160 Q370 180 360 180 Z" fill="#FF7F7F" />
+  <path d="M120 160 Q120 120 150 120 L150 100 Q110 100 110 160 Q110 220 140 220 L140 200 Q120 200 120 160 Z" fill="#FF9F9F" />
+  <path d="M380 160 Q380 120 350 120 L350 100 Q390 100 390 160 Q390 220 360 220 L360 200 Q380 200 380 160 Z" fill="#FF9F9F" />
+  
+  <!-- Headphone band -->
+  <path d="M150 100 Q250 50 350 100" stroke="#FF9F9F" stroke-width="10" fill="none" />
+  
+  <!-- Logo on headphones -->
+  <circle cx="140" cy="180" r="10" fill="#222" />
+  <circle cx="360" cy="180" r="10" fill="#222" />
+</svg>
